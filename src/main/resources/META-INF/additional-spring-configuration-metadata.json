@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "db.hibernate",
+      "type": "java.lang.String",
+      "description": "Description for db.hibernate."
+    },
+    {
+      "name": "db.auto.entitymanager.packages.to.scan",
+      "type": "java.lang.String",
+      "description": "Description for db.auto.entitling.packages.to.scan."
+    },
+    {
+      "name": "db.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for db.show_sql."
+    },
+    {
+      "name": "db.dialect",
+      "type": "java.lang.String",
+      "description": "Description for db.dialect."
+    },
+    {
+      "name": "db.hbm2ddl.auto",
+      "type": "java.lang.String",
+      "description": "Description for db.hbm2ddl.auto."
+    }
+  ] }
