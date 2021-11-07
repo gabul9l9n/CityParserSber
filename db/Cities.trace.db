@@ -1,0 +1,24 @@
+2021-11-07 15:38:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CITY" не найдена
+Table "CITY" not found; SQL statement:
+delete from city [42102-200]
+2021-11-07 15:38:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CITY" не найдена
+Table "CITY" not found; SQL statement:
+insert into city values (?, ?, ?, ?, ?, ?) [42102-200]
+2021-11-07 15:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CITY" не найдена
+Table "CITY" not found; SQL statement:
+delete from city [42102-200]
+2021-11-07 15:40:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CITY" не найдена
+Table "CITY" not found; SQL statement:
+insert into city values (?, ?, ?, ?, ?, ?) [42102-200]
+2021-11-07 15:41:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CITY" не найдена
+Table "CITY" not found; SQL statement:
+delete from city [42102-200]
+2021-11-07 15:41:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CITY" не найдена
+Table "CITY" not found; SQL statement:
+insert into city values (?, ?, ?, ?, ?, ?) [42102-200]
